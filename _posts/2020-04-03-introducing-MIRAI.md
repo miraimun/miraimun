@@ -13,3 +13,6 @@ Meet the researchers in the [Medical Imaging and Artificial Intelligence Centre]
 
 
 <div id='COVIDCTSegmentation'/>
+
+## 1. COVID CT Segmentation using Attention Networks
+
