@@ -5,6 +5,7 @@ description:         'A reserved <a href="https://jekyllrb.com" target="_blank">
 url:                 
 baseurl:             '/lanyon/'
 paginate:            5
+url: "https://miraimun.github.io/"
 
 # About/contact
 author:
