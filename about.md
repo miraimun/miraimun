@@ -4,26 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Welcome to About Us. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Medical Imaging Research Group (MIRAI) was established in 2021 at the Department of Computer Science, Memorial University of Newfoundland. The group is currently led by Professor [Matthew Hamilton](https://scholar.google.com/citations?user=PWi6hlkAAAAJ&hl=en) and includes researchers interested in medical imaging.
 
-There are currently two themes built on Poole:
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/miraimun) or [follow us on Twitter](https://twitter.com/MIRAI).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Lets meet!
