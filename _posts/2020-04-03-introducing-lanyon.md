@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Welcome to MUN CS Medical Imaging Research
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Meet the researchers in the [Medical Imaging and Artificial Intelligence Centre](https://www.mun.ca/engineering/research/resources/AIinitiative.php).
 
 ### Built on Poole
 
